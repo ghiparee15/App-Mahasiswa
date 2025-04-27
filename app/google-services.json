@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913479031605",
+    "project_id": "myapplicationuts",
+    "storage_bucket": "myapplicationuts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913479031605:android:b85cae09f2ec5db1330a7c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8eUqk9krATRWw_NQro4wIwFmL2bYodjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
